@@ -67,7 +67,7 @@
     }
 }
 
-.Projects {
+.setup {
     height: 80vh;
     display: flex;
     justify-content: center;
@@ -145,7 +145,7 @@
             border-radius: 3%;
         }
     }
-    .Projects {
+    .setup {
         &__photo {
             width: 900px;
             margin-left: 50px;
@@ -208,7 +208,7 @@
             padding: 10px;
         }
     }
-    .Projects {
+    .setup {
         &__photo {
             width: 800px;
             margin-left: 80px;
@@ -269,7 +269,7 @@
             padding: 10px;
         }
     }
-    .Projects {
+    .setup {
         height: 90vh;
         flex-direction: column;
         &__photo {
@@ -314,7 +314,7 @@
             max-width: 60vw;
         }
     }
-    .Projects {
+    .setup {
         height: 90vh;
         flex-direction: column;
         &__photo {
@@ -362,7 +362,7 @@
             max-width: 60vw;
         }
     }
-    .Projects {
+    .setup {
         height: 85vh;
         flex-direction: column;
         &__photo {
@@ -423,7 +423,7 @@
             height: 100vh !important;
         }
     }
-    .Projects {
+    .setup {
         flex-direction: column;
         height: 90vh;
         &__photo {

@@ -225,7 +225,7 @@ a {
     color: #222
 }
 
-.Projects {
+.setup {
     height: 80vh;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -238,27 +238,27 @@ a {
     align-items: center
 }
 
-.Projects__photo {
+.setup__photo {
     width: 800px;
     margin-left: 100px
 }
 
-.Projects__photoMobile {
+.setup__photoMobile {
     display: none
 }
 
-.Projects__description {
+.setup__description {
     color: #222
 }
 
-.Projects__header {
+.setup__header {
     font-size: 30px;
     font-family: "Open Sans", "sans-serif";
     margin: 20px;
     text-transform: uppercase
 }
 
-.Projects ul {
+.setup ul {
     list-style-type: none;
     line-height: 150%;
     font-size: 24px;
@@ -312,18 +312,18 @@ a {
         box-shadow: 0.4rem 0.4rem 0.4rem rgba(46, 41, 78, 0.15);
         border-radius: 3%
     }
-    .Projects__photo {
+    .setup__photo {
         width: 900px;
         margin-left: 50px;
         margin-top: 30px
     }
-    .Projects__header {
+    .setup__header {
         font-size: 36px;
         font-family: "Open Sans", "sans-serif";
         margin: 5px;
         text-transform: uppercase
     }
-    .Projects ul {
+    .setup ul {
         margin-left: 20px;
         line-height: 125%;
         font-size: 22px
@@ -369,16 +369,16 @@ a {
         font-size: 28px;
         padding: 10px
     }
-    .Projects__photo {
+    .setup__photo {
         width: 800px;
         margin-left: 80px;
         margin-top: 30px
     }
-    .Projects__header {
+    .setup__header {
         font-size: 36px;
         margin: 5px
     }
-    .Projects ul {
+    .setup ul {
         line-height: 125%;
         font-size: 22px
     }
@@ -424,23 +424,23 @@ a {
         font-size: 34px;
         padding: 10px
     }
-    .Projects {
+    .setup {
         height: 90vh;
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
         -ms-flex-direction: column;
         flex-direction: column
     }
-    .Projects__photo {
+    .setup__photo {
         width: 1000px;
         margin-left: 0;
         margin-top: 30px
     }
-    .Projects__header {
+    .setup__header {
         font-size: 52px;
         margin: 5px
     }
-    .Projects ul {
+    .setup ul {
         line-height: 125%;
         font-size: 28px
     }
@@ -468,26 +468,26 @@ a {
     .about__info {
         max-width: 60vw
     }
-    .Projects {
+    .setup {
         height: 90vh;
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
         -ms-flex-direction: column;
         flex-direction: column
     }
-    .Projects__photo {
+    .setup__photo {
         width: 750px;
         margin-left: 0;
         margin-top: 30px
     }
-    .Projects__photoMobile {
+    .setup__photoMobile {
         display: none
     }
-    .Projects__header {
+    .setup__header {
         font-size: 30px;
         margin: 5px
     }
-    .Projects ul {
+    .setup ul {
         line-height: 125%;
         font-size: 18px
     }
@@ -515,23 +515,23 @@ a {
     .about__info {
         max-width: 60vw
     }
-    .Projects {
+    .setup {
         height: 85vh;
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
         -ms-flex-direction: column;
         flex-direction: column
     }
-    .Projects__photo {
+    .setup__photo {
         width: 750px;
         margin-left: 0;
         margin-top: 30px
     }
-    .Projects__header {
+    .setup__header {
         font-size: 30px;
         margin: 20px
     }
-    .Projects ul {
+    .setup ul {
         line-height: 150%;
         font-size: 24px;
         padding: 10px
@@ -579,27 +579,27 @@ a {
     .about .particles-js-canvas-el {
         height: 100vh !important
     }
-    .Projects {
+    .setup {
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
         -ms-flex-direction: column;
         flex-direction: column;
         height: 90vh
     }
-    .Projects__photo {
+    .setup__photo {
         display: none
     }
-    .Projects__photoMobile {
+    .setup__photoMobile {
         display: block;
         max-width: 100vw;
         margin-top: 60px;
         padding: 0 10px
     }
-    .Projects__header {
+    .setup__header {
         font-size: 20px;
         margin: 20px
     }
-    .Projects ul {
+    .setup ul {
         line-height: 125%;
         font-size: 16px;
         padding: 5px
