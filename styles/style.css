@@ -16,6 +16,7 @@ a {
 
 .header {
     background-color: #B6D7C2;
+    ;
     height: 100vh;
     position: relative
 }
@@ -666,6 +667,9 @@ a {
     .technologies__icon {
         width: 40px
     }
+    .technologies__name {
+        font-size: 14px
+    }
     .about {
         height: 100vh
     }
@@ -853,7 +857,7 @@ a {
         margin-right: 15px
     }
     .footer__text {
-        margin-top: 20px;
+        margin-top: 10px;
         text-align: center
     }
 }
