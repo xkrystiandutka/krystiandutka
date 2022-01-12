@@ -99,23 +99,23 @@
     }
 }
 
-//For my Lenovo Legion Y530-15ICH in scaled mode
+//For my Huawei Matebook X Pro in scaled mode
 @media (max-width: 1600px) and (orientation: landscape) {
     .technologies {
         &__ul {
-            margin: 40px;
+            margin: 30px 150px;
         }
         &__li {
             margin: 8px;
             flex-basis: 12%;
-            height: 120px;
+            height: 100px;
             margin-bottom: 40px;
         }
         &__icon {
-            width: 80px;
+            width: 60px;
         }
         &__name {
-            font-size: 22px;
+            font-size: 20px;
         }
         &__title {
             font-size: 38px;

@@ -271,20 +271,20 @@ a {
 
 @media (max-width: 1600px) and (orientation: landscape) {
     .technologies__ul {
-        margin: 40px
+        margin: 30px 150px
     }
     .technologies__li {
         margin: 8px;
         -ms-flex-preferred-size: 12%;
         flex-basis: 12%;
-        height: 120px;
+        height: 100px;
         margin-bottom: 40px
     }
     .technologies__icon {
-        width: 80px
+        width: 60px
     }
     .technologies__name {
-        font-size: 22px
+        font-size: 20px
     }
     .technologies__title {
         font-size: 38px;
@@ -860,3 +860,6 @@ a {
         text-align: center
     }
 }
+
+
+/*# sourceMappingURL=style.css.map */
